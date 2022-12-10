@@ -1,0 +1,75 @@
+body{
+	margin: 0;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/010/826/194/original/cartoon-brick-wall-background-free-vector.jpg") ;
+	font-family: sans-serif;
+	font-size: 15px;
+	color: white;
+	line-height: 30px;
+}
+
+header{
+	background-color: #d14635;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+h1, h2{
+	font-family: 'Press Start 2P', cursive;
+}
+
+h2{
+	font-size: 35px;
+	color: white;
+	margin: 40px 0 10px;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 180px;
+	width: 300px;
+	border: 28px solid #483a94;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+footer{
+	text-align: center;
+	background-color: #d14635;
+	padding: 1px;
+}
+
+footer p{
+	padding-bottom: 0px;
+}
+
+a{
+	color: limegreen;
+
+}
+
+a:hover{
+	color: white;
+}
+
+ul{
+	padding-bottom: 20px;
+}
+
+p.caption{
+	color: orange;
+	font-style: italic;
+	margin-top: 0;
+}
